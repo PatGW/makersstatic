@@ -2,10 +2,12 @@ GEM
   remote: https://rubygems.org/
   remote: http://rubygems.org/
   specs:
+    pg (0.12.2)
     rack (1.5.2)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  pg (= 0.12.2)
   rack
